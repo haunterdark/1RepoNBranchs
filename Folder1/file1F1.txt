@@ -1,1 +1,2 @@
 fisrtcommitforfileA
+changefor3commitAB
